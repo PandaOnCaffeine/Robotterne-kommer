@@ -65,7 +65,7 @@
             }
             else
             {
-                Console.WriteLine("");
+                Console.WriteLine("!!!!!!!!!!!!!!!!!");
             }
 
             Robots robot = new Robots(model, color, wifi, battery, batterySize, soap, wheels);
