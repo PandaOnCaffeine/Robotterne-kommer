@@ -30,7 +30,7 @@ namespace Robotterne_kommer
         public byte Wheels { get { return wheels; } }
         public bool Soap { get { return soap; } }
 
-
+        //Konstruckters
         public Robots(string model)
         {
             Random rng = new Random();
